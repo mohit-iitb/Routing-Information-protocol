@@ -1,4 +1,4 @@
-# EE706_assignment2_sem2
+# ROUTUNG INFORMATION PROTOCOL
 
 For compiling with ncureses use below command:
 ```bash
